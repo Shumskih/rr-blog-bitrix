@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/blog_rr/components/bitrix/news.list/rr_blog/style.css" => "1577529632150",); ?>
